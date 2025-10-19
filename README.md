@@ -14,16 +14,16 @@ Web application that helps you choose and find the home that best meets your exp
 
 ## Resources
 
-- [https://www.openstreetmap.fr/donnees/](Open Street Map)
-- [https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_API_by_Example](Open Street Map Wiki, how ot use API)
-- [https://geodatamine.fr/](OSM data but aggregated)
-- [https://publicapis.io/open-street-map-api](OSM data examples)
-- [https://docs.stream.estate/api-reference/concepts](Property API, stream-estate) -> not free
-- [https://navitia.io/fr/](Navitia to compute distance from a point to another by public transport)
-- [https://apify.com/lexis-solutions/seloger-scraper/api](Apify solution for seloger.com) -> not free
-- [https://nominatim.org/](Geo spatial data from OSM)
-- [https://www.data.gouv.fr/datasets/demandes-de-valeurs-foncieres/](DVF to get every informations about a city)
-- [https://www.octoparse.fr/blog/comment-le-scraping-dimmobilier-peut-ameliorer-votre-business](Octoparse solution, free-tier possible)
+- [Open Street Map](https://www.openstreetmap.fr/donnees/)
+- [Open Street Map Wiki, how ot use API](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_API_by_Example)
+- [OSM data but aggregated](https://geodatamine.fr/)
+- [OSM data examples](https://publicapis.io/open-street-map-api)
+- [Property API, stream-estate](https://docs.stream.estate/api-reference/concepts) -> not free
+- [Navitia to compute distance from a point to another by public transport](https://navitia.io/fr/)
+- [Apify solution for seloger.com](https://apify.com/lexis-solutions/seloger-scraper/api) -> not free
+- [Geo spatial data from OSM](https://nominatim.org/)
+- [DVF to get every informations about a city](https://www.data.gouv.fr/datasets/demandes-de-valeurs-foncieres/)
+- [Octoparse solution, free-tier possible](https://www.octoparse.fr/blog/comment-le-scraping-dimmobilier-peut-ameliorer-votre-business)
 
 ## Architecture (draft)
 
