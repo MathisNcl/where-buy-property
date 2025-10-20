@@ -2,7 +2,7 @@
 
 Web application that helps you choose and find the home that best meets your expectations.
 
-## Target features 
+## Target features
 
 - All current online listings in France with images and information -> need to be scrapped
 - Satellite images of the property
@@ -34,3 +34,16 @@ Using AWS:
 - FastAPI back-end<-> DynamoDB on EC2 free tier
 - Front-end EC2 (Python Dash) (maybe load balancer if open to everyone)
 - Route 53 to get a fix IP
+
+## Note
+
+Seloger.com uses hash for location in url so can't use with requests. Maybe we can try using RPA solution:
+
+- [Selenium](https://selenium-python.readthedocs.io/)
+- [Playwright](https://playwright.dev/python/docs/intro)
+
+Or a AI boostbsolution like [Browse AI](https://www.browse.ai/)
+
+## TODO
+
+- [] Add pre-commit
